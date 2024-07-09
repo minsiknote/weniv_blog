@@ -24,11 +24,11 @@
 
 ​	윈도우즈에서는 ".obj" 확장자를 갖는다.
 
-![컴파일 성공](/img/compile2.png)
+![컴파일 성공](img/compile2.png)
 
 ​						**컴파일 성공**
 
-![obj 파일 생성](/img/compile1.png)
+![obj 파일 생성](img/compile1.png)
 
 ​				**기계어로 변환된 .obj 파일 생성**
 
@@ -54,7 +54,7 @@
 
 비주얼 스튜디오에서는 컴파일과 링크 과정을 묶어서 <u>빌드(build)</u>라고 한다.
 
-![빌드](/img/compile3.png)
+![빌드](img/compile3.png)
 
 ​			**비주얼 스튜디오에서의 컴파일 -> 링크 과정**
 
